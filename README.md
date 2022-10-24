@@ -2,7 +2,9 @@
 
 
 # Hacktoberfest-DSA-450
-Hey contributors it is repository where we maintain LOVE BABBAR'S 450 dsa questions. If you want to contribute to this repository please make sure that question must belongs to LOVE BABBAR DSA SHEET. Here is the link of LOVE BABBAR DSA SHEET :  https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?pli=1
+Hey contributors it is repository where we maintain LOVE BABBAR'S 450 dsa questions. If you want to contribute to this repository please make sure that question must belongs to LOVE BABBAR's DSA SHEET. 
+
+# Here is the link of LOVE BABBAR DSA SHEET :  https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?pli=1
 
 
 # How to contribute
@@ -21,7 +23,7 @@ Crete a new branch. dont create a PR from your main branch otherwise we will not
 
 ## Step 4:(Most important step)
 
-Always contribue to a relevent foldar, means if you contribute a stack question make sure it is in stack file of your language. In case there is no folder related to your data structure please create one.
+Always contribue to a relevent foldar, means if you contribute a stack question in c/c++/java/python language, make sure it is in stack folder of your c/c++/java/python language etc. In case there is no folder related to your data structure or language please create one. After that make changes.
 
 ## Step 5:
 
@@ -30,5 +32,6 @@ After compleating all these steps you can create PR, we will evaluate your PR af
 # NOTES:
 
 ## ONLY 2 VALID PR WILL BE ACCEPTED FOR EVERY CONTRIBUTORS.
+## If you want to contribute other than a DSA SHEET question please make a issue before contribute.
 
 # THANK YOU & HAPPY HACKING
